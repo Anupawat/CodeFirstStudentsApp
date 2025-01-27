@@ -1,0 +1,14 @@
+C:\Users\asr77\source\repos\CodeFirstStudentApp\CodeFirstStudentApp\bin\Debug\CodeFirstStudentApp.exe.config
+C:\Users\asr77\source\repos\CodeFirstStudentApp\CodeFirstStudentApp\bin\Debug\CodeFirstStudentApp.exe
+C:\Users\asr77\source\repos\CodeFirstStudentApp\CodeFirstStudentApp\bin\Debug\CodeFirstStudentApp.pdb
+C:\Users\asr77\source\repos\CodeFirstStudentApp\CodeFirstStudentApp\bin\Debug\EntityFramework.dll
+C:\Users\asr77\source\repos\CodeFirstStudentApp\CodeFirstStudentApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\asr77\source\repos\CodeFirstStudentApp\CodeFirstStudentApp\bin\Debug\EntityFramework.xml
+C:\Users\asr77\source\repos\CodeFirstStudentApp\CodeFirstStudentApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\asr77\source\repos\CodeFirstStudentApp\CodeFirstStudentApp\obj\Debug\CodeFirstStudentApp.csproj.AssemblyReference.cache
+C:\Users\asr77\source\repos\CodeFirstStudentApp\CodeFirstStudentApp\obj\Debug\CodeFirstStudentApp.csproj.CoreCompileInputs.cache
+C:\Users\asr77\source\repos\CodeFirstStudentApp\CodeFirstStudentApp\obj\Debug\CodeFirs.182B5343.Up2Date
+C:\Users\asr77\source\repos\CodeFirstStudentApp\CodeFirstStudentApp\obj\Debug\CodeFirstStudentApp.exe
+C:\Users\asr77\source\repos\CodeFirstStudentApp\CodeFirstStudentApp\obj\Debug\CodeFirstStudentApp.pdb
+C:\Users\asr77\source\repos\CodeFirstStudentApp\CodeFirstStudentApp\obj\Debug\CodeFirstStudentApp.Migrations.InitialCreate.resources
+C:\Users\asr77\source\repos\CodeFirstStudentApp\CodeFirstStudentApp\obj\Debug\CodeFirstStudentApp.csproj.GenerateResource.cache
